@@ -1,0 +1,14 @@
+{
+    "name": "daryl/daryl-orm",
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "daryl",
+            "email": "daryl.moe@outlook.com"
+        }
+    ],
+    "require": {}
+}
