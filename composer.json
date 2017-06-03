@@ -10,5 +10,10 @@
             "email": "daryl.moe@outlook.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Daryl\\Orm\\": "src/"
+        }
+    },
     "require": {}
 }
